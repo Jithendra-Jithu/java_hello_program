@@ -11,4 +11,4 @@ COPY . .
 RUN javac helloWorkshop.java
 
 # Run the Java application
-CMD ["java", "helloWorkshop.java"]
+CMD ["java", "helloWorkshop"]
