@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: helloworld
-          image: jithu145/helloworld:latest
+          image: jithu145/try1:latest
           ports:
             - containerPort: 8080
